@@ -4,17 +4,21 @@
 class AdrianoMarques:
     def __init__(self):
         self.name = "Adriano Marques"
-        self.languages = ["Portuguese - Native",
-                          "English - Fluent",
-                          "French - Conversational",
-                          "Spanish - Daring",
-                          "Russian - Curious"]
-        self.skills = ["Artificial Intelligence",
-                       "Machine Learning",
-                       "Cloud",
-                       "Leadership",
-                       "Business Strategy",
-                       "Fullstack"]
+        self.languages = [
+            "Portuguese - Native",
+            "English - Fluent",
+            "French - Conversational",
+            "Spanish - Daring",
+            "Russian - Curious"
+        ]
+        self.skills = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Cloud",
+            "Leadership",
+            "Business Strategy",
+            "Fullstack"
+        ]
         self.achievements = [
             "Published to Nature",
             "Developed cybersecurity software used by millions worldwide",
