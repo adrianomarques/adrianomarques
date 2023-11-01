@@ -52,7 +52,7 @@ class AdrianoMarques:
 - 👨‍💼 Led a business team of **40+** champs.
 
 ## 📬 Let's Connect!
-If you found even an iota of intrigue in my profile, do reach out! Whether it's for potential collaborations, projects, or simply a chat... I'm all ears.
+If you're intrigued by my profile, do reach out! Whether it's for potential collaborations, projects, or simply a chat... I'm all ears.
 
 
 <!--
